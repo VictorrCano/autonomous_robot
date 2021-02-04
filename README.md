@@ -11,7 +11,7 @@ The project is undertaken by the individuals listed below. Each team member has 
 | *Testing Lead* |Justin Legrand |
 | *Hardware Lead* |Fahim Rezai |
 | *Documentation Lead* | Edward Latulipe-Kang |
-| *Floater* |Victor Cano |
+| *Technical Support* |Victor Cano |
 
 ## Requirements
 The robot must be able to navigate a virtual world of 15' x 9' divided into a grid layout. The field is separated in three zones: red zone, green zone, and search zone. Each zone is separated by a river and connected by bridges. The search zone is shared physically by the two competing robots and any collision will result in
