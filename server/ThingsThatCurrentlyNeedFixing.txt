@@ -1,0 +1,9 @@
+Things to fix: Object Avoidance when block pushing. Technically it should work? Probably need to increase the object avoidance sensor just for that. This is decently important.
+Obstacle placement prediction-Its a bit off. Test and change Very important but simple
+
+
+Things that need checking:
+Edward's method that I replaced. Should be good, its pretty simple.
+Id like to see block pushing work very well. 
+LineAndCorrect. I kinda need that tbh. I need to correct the odometer.
+Im assuming Taylor's method is working.

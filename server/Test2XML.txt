@@ -1,0 +1,62 @@
+<xml>
+  <value key="RedTeam">4</value>
+  <value key="RedCorner">1</value>
+
+  <value key="GreenTeam">NaN</value>
+  <value key="GreenCorner">0</value>
+
+  <value key="Red_LL_x">13</value>
+  <value key="Red_LL_y">0</value>
+
+  <value key="Red_UR_x">15</value>
+  <value key="Red_UR_y">3</value>
+
+  <value key="Green_LL_x">0</value>
+  <value key="Green_LL_y">0</value>
+
+  <value key="Green_UR_x">3</value>
+  <value key="Green_UR_y">2</value>
+
+  <value key="Island_LL_x">2</value>
+  <value key="Island_LL_y">5</value>
+
+  <value key="Island_UR_x">14</value>
+  <value key="Island_UR_y">9</value>
+
+  <value key="TNR_LL_x">13</value>
+  <value key="TNR_LL_y">3</value>
+
+  <value key="TNR_UR_x">14</value>
+  <value key="TNR_UR_y">5</value>
+
+  <value key="TNG_LL_x">2</value>
+  <value key="TNG_LL_y">2</value>
+
+  <value key="TNG_UR_x">3</value>
+  <value key="TNG_UR_y">5</value>
+
+  <value key="SZR_LL_x">8</value>
+  <value key="SZR_LL_y">5</value>
+
+  <value key="SZR_UR_x">14</value>
+  <value key="SZR_UR_y">9</value>
+
+  <value key="SZG_LL_x">2</value>
+  <value key="SZG_LL_y">5</value>
+
+  <value key="SZG_UR_x">8</value>
+  <value key="SZG_UR_y">9</value>
+
+  <value key="RRL_x">9</value>
+  <value key="RRL_y">5</value>
+
+  <value key="RRR_x">8</value>
+  <value key="RRR_y">5</value>
+
+  <value key="GRL_x">8</value>
+  <value key="GRL_y">5</value>
+
+  <value key="GRR_x">8</value>
+  <value key="GRR_y">5</value>
+
+</xml>

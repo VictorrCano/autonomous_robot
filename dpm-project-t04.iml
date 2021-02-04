@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="EclipseModuleManager">
+    <libelement value="jar://$MODULE_DIR$/controllers/lib/simlejos.jar!/" />
+    <libelement value="jar://$MODULE_DIR$/controllers/lib/EV3WiFiClient.jar!/" />
+    <varelement var="file://$WEBOTS_HOME$" value="WEBOTS_HOME" />
+    <src_description expected_position="0">
+      <src_folder value="file://$MODULE_DIR$/controllers/T04Controller" expected_position="0" />
+    </src_description>
+  </component>
+  <component name="NewModuleRootManager">
+    <output url="file://$MODULE_DIR$/bin" />
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/controllers/T04Controller" isTestSource="false" />
+    </content>
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="module-library">
+      <library name="junit5">
+        <CLASSES>
+          <root url="jar://$APPLICATION_HOME_DIR$/lib/junit.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="simlejos.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/controllers/lib/simlejos.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="EV3WiFiClient.jar">
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/controllers/lib/EV3WiFiClient.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="WEBOTS_HOME">
+        <CLASSES>
+          <root url="file://$WEBOTS_HOME$" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
