@@ -1,4 +1,5 @@
-# ECSE211 Project: Team 04 - The Canadian Geese
+# Autonomous Robot Competition
+ECSE211 Project: Team 04 - The Canadian Geese
 
 The Fall 2020 ECSE 211 project has tasked us to design and program a Java-based virtual robot capable of autonomously navigating a given play-area and collect points via the pushing of blocks, or containers, up and ramp and into a bin. This robot will compete against another robot for points. The weight of the blocks pushed into the bin will determine the score of a robot. To that end, a robot will require the implementation of proper localization, navigation, and collision detection capabilities. 
 ## Team 
